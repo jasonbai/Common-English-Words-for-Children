@@ -1,9 +1,12 @@
 # Common-English-Words-for-Children
  给小朋友的第一本单词书
 
+
 今天笑来老师发布了他的“**新书**”[《Most Common American Idioms》](https://github.com/xiaolai/most-common-american-idioms)，并且开源了代码 ​。
 
 我的女儿马上二年级，准备教教她英语，之前一直报名的网上课程，我一直觉得商业化的课程设计又傻又慢 ​，但也没办法。这次笑来老师的开源制作书籍的灵感让我连夜制作了一个 ​ **儿童英语入门的版本**。
+
+<img src="web.png" alt="Common-English-Words-for-Children" style="zoom:50%;" />
 
 ### 成品效果：
 
