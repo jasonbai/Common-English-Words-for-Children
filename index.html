@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日一练</title>
+    <link rel="stylesheet" href="webstyless.css">
+</head>
+<body>
+    <div class="banner">每日一练</div>
+    <div class="container">
+        <div class="info-container">
+            <div class="title" id="title"></div>
+            <div class="divider"></div>
+            <div class="definition">
+                <span class="label">释义: </span>
+                <span class="content" id="definition"></span>
+            </div>
+            <div class="description">
+                <span class="label">描述: </span>
+                <span class="content" id="description"></span>
+            </div>
+            <div class="divider"></div>
+            <div class="long-description">
+                <span class="label">中文解释: </span>
+                <span class="content" id="long_description"></span>
+            </div>
+            <button class="toggle-button" id="toggleButton">显示英文解释</button>
+            <div class="english-description" id="englishDescription" style="display: none;">
+                <span class="label">英文解释: </span>
+                <span class="content" id="english_description"></span>
+            </div>
+            <div class="divider"></div>
+            <div class="examples" id="examples"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
