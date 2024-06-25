@@ -27,6 +27,10 @@
 
 我在源码基础上替换了 OpenAI 的接口（因为我没有，且贵），模型基座使用 deepseek效果一致，TTs 文字转语音的部分，接口换成火山引擎的语音接口。接口全部国产化。
 
+#### 5. 服务器调用，优化手机，Pad访问体验
+<img src="h5.jpg" alt="Common-English-Words-for-Children" style="zoom:50%;" />
+
+
 deepseek 的模型提示词：
 
 ```
